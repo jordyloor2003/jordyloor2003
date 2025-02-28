@@ -1,4 +1,5 @@
 ## Hola 👋, soy Jordy Loor
+![Profile Views](https://komarev.com/ghpvc/?username=jordyloor2003&color=blue)
 
 Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, Inteligencia Artificial y Análisis de Datos. Me especializo en la creación de soluciones innovadoras que optimizan procesos y mejoran la toma de decisiones.
 
