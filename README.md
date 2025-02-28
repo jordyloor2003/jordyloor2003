@@ -1,7 +1,28 @@
-## Hi there, I'm Jordy Loor
+## Hola 👋, soy Jordy Loor
 
-- 🔭 I’m currently working on **Data Analysis** and **Machine Learning** Projects
-- 🌱 I’m currently learning Visual Basic and .NET
-- 📫 How to reach me: jloorm4@est.ups.edu.ec ![about](https://github.com/user-attachments/assets/be3a1fb4-a301-484c-890e-f705bfeac398)
+![Profile Views](https://komarev.com/ghpvc/?username=jordyloor2003&color=blue)
 
-## Technologies
+Soy un apasionado de la tecnología con experiencia en desarrollo de software, inteligencia artificial y análisis de datos. Me especializo en la creación de soluciones innovadoras que optimizan procesos y mejoran la toma de decisiones.
+
+- 🔭 Actualmente estoy trabajando en proyectos de **Análisis de datos** y **Aprendizaje automático**
+- 🌱 Actualmente estoy aprendiendo Visual Basic y .NET
+- 📫 Cómo comunicarse conmigo: jloorm4@est.ups.edu.ec
+
+## Tecnologías
+
+## Estadísticas
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jordyloor2003&show_icons=true&theme=dark&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyloor2003&layout=compact&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordyloor2003&theme=dark" />
+    </td>
+  </tr>
+</table>
