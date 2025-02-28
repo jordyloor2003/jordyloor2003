@@ -34,7 +34,7 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
 </table>
 
 <!--Habilidades-->
-  <h3>🌟 Habilidades Blandas</h3>
+  <h3>🌟 Habilidades</h3>
   <ul>
     <li>Trabajo en equipo</li>
     <li>Comunicación efectiva</li>
