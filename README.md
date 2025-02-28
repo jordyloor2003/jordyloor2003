@@ -1,3 +1,4 @@
+![about](https://github.com/user-attachments/assets/be3a1fb4-a301-484c-890e-f705bfeac398)
 ## Hi there 👋
 
 - 🔭 I’m currently working on **Data Analysis** and **Machine Learning** Projects
