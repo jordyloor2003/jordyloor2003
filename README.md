@@ -3,7 +3,7 @@
 
 Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, Inteligencia Artificial y Análisis de Datos. Me especializo en la creación de soluciones innovadoras que optimizan procesos y mejoran la toma de decisiones.
 
-- 🔭 Actualmente estoy trabajando en proyectos autónomos de **Análisis de datos** y **Aprendizaje automático**
+- 🔭 Actualmente estoy trabajando en proyectos independientes de **Análisis de datos** y **Aprendizaje automático**
 - 🌱 Actualmente estoy aprendiendo Visual Basic y .NET
 - 📫 Cómo comunicarse conmigo: jloorm4@est.ups.edu.ec
 
@@ -48,15 +48,7 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jordyloor2003&show_icons=true&theme=dark&count_private=true" />
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyloor2003&layout=compact&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordyloor2003&theme=dark" />
     </td>
   </tr>
 </table>
