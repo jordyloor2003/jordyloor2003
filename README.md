@@ -3,7 +3,7 @@
 
 Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, Inteligencia Artificial y Análisis de Datos. Me especializo en la creación de soluciones innovadoras que optimizan procesos y mejoran la toma de decisiones.
 
-- 🔭 Actualmente estoy trabajando en proyectos independientes de **Análisis de datos** y **Aprendizaje automático**.
+- 🔭 Actualmente estoy trabajando en proyectos independientes de **Análisis de datos** y **Aprendizaje automático**
 - 🌱 Actualmente estoy aprendiendo Visual Basic y .NET
 - 📫 Cómo comunicarse conmigo: jloorm4@est.ups.edu.ec
 
