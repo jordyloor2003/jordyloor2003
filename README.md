@@ -48,7 +48,7 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyloor2003&layout=compact&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyloor2003&layout=compact&theme=dark"/>
     </td>
   </tr>
 </table>
