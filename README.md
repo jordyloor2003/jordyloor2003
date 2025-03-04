@@ -45,11 +45,8 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
     <li>Gestión del tiempo</li>
   </ul>
 
-## 📊 Estadísticas
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyloor2003&layout=compact&theme=dark"/>
-    </td>
-  </tr>
-</table>
+## 📊 Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jordyloor2003&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyloor2003&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+</div>
