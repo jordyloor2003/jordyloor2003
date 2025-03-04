@@ -45,8 +45,19 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
     <li>Gestión del tiempo</li>
   </ul>
 
-## 📊 Statistics
+## 📊 GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jordyloor2003&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyloor2003&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
 </div>
+
+<br>
+<br>
+
+<div>
+  <img src="">
+</div>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jaiswal4sudeep's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
