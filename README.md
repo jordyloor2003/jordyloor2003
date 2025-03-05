@@ -72,7 +72,7 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
       <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
       <img alt="Internet of Things" src="https://img.shields.io/badge/Internet%20of%20Things-0088CC.svg?logo=iot&logoColor=white">
       <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7.svg?logo=cisco&logoColor=white">
-      <img alt="Azure Portal" src="https://custom-icon-badges.herokuapp.com/badge/Azure%20Portal-f6f7f6.svg?logo=azu2">
+      <img alt="Azure Portal" src="https://custom-icon-badges.herokuapp.com/badge/Portal%20Azure-f6f7f6.svg?logo=azu2">
   </kbd>
 </p>
 
