@@ -42,12 +42,11 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
 
 <p>
   <kbd>
-    <kbd><strong>💾 Databases and Cloud</strong></kbd>
+    <kbd><strong>💾 Databases</strong></kbd>
       <br><br>
       <img alt="SQL Server" src="https://custom-icon-badges.herokuapp.com/badge/SQL%20Server-f6f7f6.svg?logo=sqlss">
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
       <img alt="Oracle" src="https://custom-icon-badges.herokuapp.com/badge/Oracle-f6f7f6.svg?logo=fondo&logoColor=white">
-      <img alt="Azure" src="https://custom-icon-badges.herokuapp.com/badge/Azure-f6f7f6.svg?logo=azu2">
   </kbd>
 </p>
 
