@@ -10,10 +10,10 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
 
 <br>
 
-## Skills
+## 🚀 Skills
 <p>
   <kbd>
-    <kbd><strong>Programming Languages</strong></kbd>
+    <kbd><strong>🖥️ Programming Languages</strong></kbd>
       <br><br>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
       <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=coffeescript&logoColor=white">
@@ -21,17 +21,17 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
       <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
       <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-      <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/T-SQL-025E8C.svg?logo=database&logoColor=white">
+      <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/T--SQL-025E8C.svg?logo=database&logoColor=white">
       <img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white">
+      <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
   </kbd>
 </p>
 
 <p>
   <kbd>
-    <kbd><strong>Frameworks</strong></kbd>
+    <kbd><strong>📦 Frameworks</strong></kbd>
       <br><br>
       <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
-      <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit-Learn-F7931E.svg?logo=scikitlearn&logoColor=white">
       <img alt="Express.js" src="https://img.shields.io/badge/Express.js-5FA04E.svg?logo=nodedotjs&logoColor=white">
       <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?logo=tensorflow&logoColor=white">
       <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
@@ -40,7 +40,7 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
 
 <p>
   <kbd>
-    <kbd><strong>Databases and Cloud</strong></kbd>
+    <kbd><strong>💾 Databases and Cloud</strong></kbd>
       <br><br>
       <img alt="SQL Server" src="https://custom-icon-badges.herokuapp.com/badge/SQL%20Server-f6f7f6.svg?logo=sqlss">
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
@@ -51,7 +51,17 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
 
 <p>
   <kbd>
-    <kbd><strong>Software and Tools</strong></kbd>
+    <kbd><strong>🎛️ Operating Systems</strong></kbd>
+      <br><br>
+      <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
+  </kbd>
+</p>
+
+<p>
+  <kbd>
+    <kbd><strong>🛠️ Software and Tools</strong></kbd>
       <br><br>
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
@@ -60,22 +70,15 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
       <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=googlecolab&logoColor=white">
       <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?logo=jupyter&logoColor=white">
       <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
+      <img alt="Internet of Things" src="https://img.shields.io/badge/Internet%20of%20Things-0088CC.svg?logo=iot&logoColor=white">
+      <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7.svg?logo=cisco&logoColor=white">
       <img alt="" src="">
   </kbd>
 </p>
 
 
 
-<!--Habilidades-->
-  <h3>🌟 Habilidades</h3>
-  <ul>
-    <li>Trabajo en equipo</li>
-    <li>Comunicación efectiva</li>
-    <li>Resolución de problemas</li>
-    <li>Adaptabilidad</li>
-    <li>Pensamiento crítico</li>
-    <li>Gestión del tiempo</li>
-  </ul>
+
 
 ## 📊 GitHub Statistics
 <div align="center">
