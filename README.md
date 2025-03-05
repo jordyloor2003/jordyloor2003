@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Jordy+Loor+👋" alt="Typing SVG" /></a>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+developer+from+Ecuador" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+developer+from+Ecuador" alt="Typing SVG" /></a>
 
 Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, Inteligencia Artificial y Análisis de Datos. Me especializo en la creación de soluciones innovadoras que optimizan procesos y mejoran la toma de decisiones.
 
@@ -13,58 +13,58 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
 ## Skills
 <p>
   <kbd>
-    <kbd>Programming Languages</kbd>
+    <kbd><strong>Programming Languages</strong></kbd>
       <br><br>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-      <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+      <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=coffeescript&logoColor=white">
       <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-      <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+      <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/T-SQL-025E8C.svg?logo=database&logoColor=white">
       <img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white">
   </kbd>
 </p>
 
 <p>
   <kbd>
-    <kbd>Frameworks</kbd>
-    	<br><br>
-	<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white">
-	<img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikitlearn-F7931E.svg?logo=scikitlearn&logoColor=white">
-	<img alt="Express.js" src="https://img.shields.io/badge/Express.js-5FA04E.svg?logo=nodedotjs&logoColor=white">
-	<img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?logo=tensorflow&logoColor=white">
-	<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
+    <kbd><strong>Frameworks</strong></kbd>
+      <br><br>
+      <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+      <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit-Learn-F7931E.svg?logo=scikitlearn&logoColor=white">
+      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-5FA04E.svg?logo=nodedotjs&logoColor=white">
+      <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?logo=tensorflow&logoColor=white">
+      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
+  </kbd>
+</p>
+
+<p>
+  <kbd>
+    <kbd><strong>Databases and Cloud</strong></kbd>
+      <br><br>
+      <img alt="SQL Server" src="https://custom-icon-badges.herokuapp.com/badge/SQL%20Server-f6f7f6.svg?logo=sqlss">
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
+      <img alt="Oracle" src="https://custom-icon-badges.herokuapp.com/badge/Oracle-f6f7f6.svg?logo=fondo&logoColor=white">
+      <img alt="Azure" src="https://custom-icon-badges.herokuapp.com/badge/Azure-f6f7f6.svg?logo=azu2">
+  </kbd>
+</p>
+
+<p>
+  <kbd>
+    <kbd><strong>Software and Tools</strong></kbd>
+      <br><br>
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+      <img alt="Visual Studio Code" src="https://custom-icon-badges.herokuapp.com/badge/Visual%20Studio%20Code-f6f7f6.svg?logo=vsc1">
+      <img alt="Netbeans IDE" src="https://img.shields.io/badge/Netbeans%20IDE-1B6AC6.svg?logo=apachenetbeanside&logoColor=white">
+      <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=googlecolab&logoColor=white">
+      <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?logo=jupyter&logoColor=white">
+      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
+      <img alt="" src="">
   </kbd>
 </p>
 
 
-
-
-<h3>🛠️ Tecnologías</h3>
-<!--Tecnologias-->
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50""/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50""/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50""/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></td>
-  </tr>
-</table>
 
 <!--Habilidades-->
   <h3>🌟 Habilidades</h3>
