@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1500&pause=3000&color=1FADFF&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Jordy+Loor+👋"/>
 
 ## About me
-I'm a professional with experience in Software Development, Artificial Intelligence and Data Analysis. I'm dedicated to design and implement innovative technological solutions. My skills allow me to transform data into valuable information, automate processes and develop intelligent systems that improve strategic decision making.
+I'm a professional with experience in Software Development, Artificial Intelligence and Data Analysis, dedicated to design and implement innovative technological solutions. My skills allow me to transform data into valuable information, automate processes and develop intelligent systems that improve strategic decision making.
 
 - 🔭 I am currently working on Computer Vision projects using Machine Learning techniques.
 - 🌱 I am currently learning .NET.
