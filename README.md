@@ -6,7 +6,7 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
 
 - 🔭 Actualmente estoy trabajando en proyectos independientes de **Análisis de datos** y **Aprendizaje automático**
 - 🌱 Actualmente estoy aprendiendo Visual Basic y .NET
-- 📫 Cómo comunicarse conmigo: jloorm4@est.ups.edu.ec
+- 📫 Cómo comunicarse conmigo: jloorm2003@gmail.com
 
 <br>
 
