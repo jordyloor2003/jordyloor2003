@@ -75,33 +75,6 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
   </kbd>
 </p>
 
-<p>
-  <kbd>
-    <kbd><strong>🛠️ Software and Tools</strong></kbd>
-  </kbd>
-</p>
-
-<table>
-  <tr>
-    <td><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></td>
-    <td><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></td>
-    <td><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td><img alt="Netbeans IDE" src="https://img.shields.io/badge/Netbeans%20IDE-1B6AC6.svg?logo=apachenetbeanside&logoColor=white"></td>
-    <td><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?logo=jupyter&logoColor=white"></td>
-    <td><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=androidstudio&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td><img alt="Internet of Things" src="https://img.shields.io/badge/Internet%20of%20Things-0088CC.svg?logo=iot&logoColor=white"></td>
-    <td><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7.svg?logo=cisco&logoColor=white"></td>
-  </tr>
-</table>
-
-
 ## 📊 GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jordyloor2003&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
