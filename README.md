@@ -16,40 +16,30 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
     <kbd>Programming Languages</kbd>
       <br><br>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+      <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+      <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+      <img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white">
   </kbd>
 </p>
 
 <p>
   <kbd>
     <kbd>Frameworks</kbd>
-    <br><br>
-    
-    
+    	<br><br>
+	<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white">
+	<img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikitlearn-F7931E.svg?logo=scikitlearn&logoColor=white">
+	<img alt="Express.js" src="https://img.shields.io/badge/Express.js-5FA04E.svg?logo=nodedotjs&logoColor=white">
+	<img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?logo=tensorflow&logoColor=white">
+	<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
   </kbd>
 </p>
 
 
 
-<div>
-	<p style="display: inline-block;">
-	<p>
-		<kbd>
-			<kbd>Programming Languages</kbd>
-			<br>
-			<br>
-			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
-			<img alt="C#" src="https://img.shields.io/badge/C-05122A?logo=csharp&style=flat">
-			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
-			<img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
-			<img alt="Java" src="https://img.shields.io/badge/Java-05122A?logo=openjdk&style=flat">
-		</kbd>
-	</p>
 
 <h3>🛠️ Tecnologías</h3>
 <!--Tecnologias-->
