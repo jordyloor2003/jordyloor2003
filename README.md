@@ -8,7 +8,49 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
 - 🌱 Actualmente estoy aprendiendo Visual Basic y .NET
 - 📫 Cómo comunicarse conmigo: jloorm4@est.ups.edu.ec
 
-## 🚀 Tecnologías y Habilidades
+<br>
+
+## Skills
+<p>
+  <kbd>
+    <kbd>Programming Languages</kbd>
+      <br><br>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  </kbd>
+</p>
+
+<p>
+  <kbd>
+    <kbd>Frameworks</kbd>
+    <br><br>
+    
+    
+  </kbd>
+</p>
+
+
+
+<div>
+	<p style="display: inline-block;">
+	<p>
+		<kbd>
+			<kbd>Programming Languages</kbd>
+			<br>
+			<br>
+			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+			<img alt="C#" src="https://img.shields.io/badge/C-05122A?logo=csharp&style=flat">
+			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
+			<img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
+			<img alt="Java" src="https://img.shields.io/badge/Java-05122A?logo=openjdk&style=flat">
+		</kbd>
+	</p>
+
 <h3>🛠️ Tecnologías</h3>
 <!--Tecnologias-->
 <table>
@@ -50,14 +92,3 @@ Soy un apasionado de la tecnología con experiencia en Desarrollo de Software, I
   <img src="https://github-readme-stats.vercel.app/api?username=jordyloor2003&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyloor2003&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
 </div>
-
-<br>
-<br>
-
-<div>
-  <img src="">
-</div>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jaiswal4sudeep's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  
