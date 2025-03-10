@@ -78,5 +78,5 @@ I'm a professional with experience in Software Development, Artificial Intellige
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jordyloor2003&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyloor2003&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordyloor2003&theme=react&custom_title=Jordy's%20GitHub%20Activity%20Graph&bg_color=1F222E&color=ffffff&line=F8D866&point=F8D866&area_color=F8D866&title_color=F85D7F&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordyloor2003&theme=react&custom_title=Jordy%20Loor's%20GitHub%20Activity%20Graph&bg_color=1F222E&color=ffffff&line=F8D866&point=F8D866&area_color=F8D866&title_color=F85D7F&area=true">
 </div>
