@@ -34,6 +34,7 @@ I'm a professional with experience in Software Development, Artificial Intellige
       <img alt="Express.js" src="https://img.shields.io/badge/Express.js-5FA04E.svg?logo=nodedotjs&logoColor=white">
       <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?logo=tensorflow&logoColor=white">
       <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
+      <img alt="Angular" src="https://img.shields.io/badge/Angular-b52e31?logo=angular">
   </kbd>
 </p>
 
